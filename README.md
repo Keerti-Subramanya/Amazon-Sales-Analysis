@@ -1,11 +1,13 @@
-## Amazon Sales Data Analysis & Dashboard (2019-2024)
+# Amazon Sales Data Analysis & Dashboard (2019-2024)
 
-📌 Project Overview
+## 📌 Project Overview
 This repository contains a comprehensive Excel-based data analysis and interactive dashboard built on a rich dataset of Amazon sales from 2019 to 2024. The project demonstrates advanced data modeling, dynamic reporting, and performance tracking across various business dimensions including geography, product categories, and salesforce efficiency.
 
 As a complete end-to-end analytical solution, this workbook transforms 5,000 raw transactional records into actionable business intelligence.
 
-📊 Executive Summary & Key Performance Indicators (KPIs)
+
+
+## 📊 Executive Summary & Key Performance Indicators (KPIs)
 The dashboard tracks the following macro-level performance metrics for the 5-year operational period:
 
 Total Revenue: $5,935,726.92
@@ -22,7 +24,9 @@ Average Order Value (AOV): $1,187.15
 
 Top Performing Region: Australia
 
-📂 Analytical Components & Workbook Structure
+
+
+## 📂 Analytical Components & Workbook Structure
 The Excel workbook is architected into specific, logical sheets to facilitate both high-level executive summaries and granular dimensional analysis:
 
 Raw Data (amazon_sales_dataset_2019_2024_corrected): The foundational transactional dataset containing meticulously structured data points (Order IDs, Dates, Customer Info, Regions, Products, Financials).
@@ -39,7 +43,9 @@ Salesforce Metrics (Salespeople): Individual performance tracking for account ex
 
 Logistics & Fulfillment (OrderStatus): Analysis of supply chain efficacy, tracking the financial impact of Cancelled, Completed, Pending, and Returned orders.
 
-💻 Technical Excel Competencies Demonstrated
+
+
+## 💻 Technical Excel Competencies Demonstrated
 This project serves as a showcase of senior-level Microsoft Excel capabilities, prioritizing data integrity, scalability, and automated reporting:
 
 Advanced Data Aggregation: Extensive use of PivotTables and PivotCharts to slice and dice multi-dimensional data dynamically.
@@ -50,7 +56,9 @@ Calculated Fields & Data Engineering: Development of derived metrics within the 
 
 Data Cleansing & Structuring: Transformation of flat, unstructured transactional exports into a clean, tabular format optimized for business intelligence workflows.
 
-⚙️ How to Use This File
+
+
+## ⚙️ How to Use This File
 Download the amazon_sales_dataset_2019_2024_corrected.xlsx file.
 
 Navigate to the Dashboard sheet for a macro-level business overview.
